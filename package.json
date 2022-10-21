@@ -1,0 +1,30 @@
+{
+  "name": "projectwerk_elektronica_ict",
+  "version": "0.0.1",
+  "description": "Projectwerk PBA Elektronica ICT",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "SET NODE_OPTIONS=--openssl-legacy-provider && vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronnymees/projectwerk_elektronica_ict.git"
+  },
+  "author": "Ronny Mees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronnymees/projectwerk_elektronica_ict/issues"
+  },
+  "homepage": "https://github.com/ronnymees/projectwerk_elektronica_ict#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-zooming": "^1.1.8"
+  },
+  "dependencies": {
+    "@dovyp/vuepress-plugin-clipboard-copy": "^1.0.0-alpha.7"
+  }
+}

@@ -20,8 +20,9 @@ Each student is expected to put in a effort of **144 hours** spend on the projec
 
 ## Evaluation
 
+<!-- TODO: Invullen hoe de evaluatie is -->
 ?????
 
-::: danger ❌ Second chance
+::: danger ❌ No second chance
 Due to the exented workload (144 hours) **it is not possible for students to take a second chance** for project experience.
 :::

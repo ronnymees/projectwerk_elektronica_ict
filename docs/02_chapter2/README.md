@@ -4,20 +4,6 @@ To insure a good progress of the project the teams will follow this workflow.
 
 ![image](./images/afbeelding1.png)
 
-
-
-<!-- Mag weg als alles overgezet is
-
-**Important deadlines**
-
-* week 9: Finished product, ready for debugging
-* week 11: Finalized product
-* week 12: Final presentation
--->
-
-
-
-
 ## Concept
 
 We start project experience with a **kick-off moment** where students choose one of the presented projects and by doing so teams are formed.
@@ -28,11 +14,11 @@ We start project experience with a **kick-off moment** where students choose one
 
 2. Brainstorm
 
-    ![image](./images/afbeelding4.png)
+    ![image](./images/afbeelding2.png)
     * Mind maps allow the team to explore ideas and the connection between these ideas. The information gathered is used to do so.
     * The team generates a few concept ideas.
 
-3. Working to one concept
+3. Working towards one concept
     * weigh the pros and cons of each idea and by using parts of multiple ideas form one concept idea.
     * define subtasks to generate a proof of concept.
     * generate a list of needed items.
@@ -112,50 +98,50 @@ The presentation must contain:
 
 ## Prototype of product
 
+Now that you have proof of concept and presented that concept to the teachers you can work towards a prototype of your product.
 
+Use the feedback you got from the teachers and start planning all tasks to make the prototype.
+Don't forget to ask the product owner for delivery times on ordered parts.
 
-## Testing
+**📝 Administration**
 
+Keep updating Redmine and add all files to the project repository.
 
+::: tip ⏰ Deadline
 
+By the end of week 9 each team should have a working prototype of the product.
 
-
-
-<!-- alles hieronder verplaatsen naar apparte chapters -->
-
-## Scrum technique
-
-Agile Scrum is an iterative software development methodology specifically designed to build products faster. Agile Scrum uses short pre-defined development cycles (called sprints or cycles), with each cycle resulting in potentially shippable functionality delivered.
-
-![image](./images/afbeelding2.png)
-
-Each project will have a **product owner**, a teacher, that is the team's client. The product owner is the team's **first point of contact** during project experience.
-
-The team appoints a **scrum master** that schedules weekly **scrum meetings**.
-Tasks or **sprints** are defined with **timeschedules** which are **assigned to teammembers**.
-
-## Redmine
-
-To keep track of the project, its tasks and the workload of each team member we use the tool [Redmine](https://project.devbit.be/).
-
-![image](./images/afbeelding3.png)
-
-In Redmine all sprints must be entered with all there subtasks. Tasks must be assigned to team members. Each team member must register there work at the end of each day for each task they worked on. The progress of the tasks must be adjusted accordingly.
-
-::: warning 📢Attention
-Redmine is the only tool teachers will consult to view the progress of each team and the performed work of each team member.
 :::
 
-## GitHub
+## Testing & documentation
 
-A project has a [GitHub repository](https://github.com/vives-project-xp) where all files (source code, 3D print files, images, ...) will be pushed. This means that all tests, failing tries as well as the final versions will be pushed to GitHub. 
+Now that there is a working prototype of the product, the teams will start extended tests to locate possible issue's.
+Any issue's found should be addressed to.
 
-Each repository has a `README.md` that documents the project very well:
-* What your project does
-* How to install it
-* Example usage
-* Screenshots
-* How to set up the dev environment
-* License and author info
+A thorough documentation should be written so other students or teachers can continue work on the project.
+
+**📝 Administration**
+
+Keep updating Redmine and add all files to the project repository.
+
+::: tip ⏰ Deadline
+
+By the end of week 11 each team should have a debugged prototype of the product that has been fully documented.
+
+:::
+
+### Final presentation
+
+During week 12 each team will present there project to the teachers.
+The presentation must contain:
+* The problem statement 
+* The proof of concept
+* The prototype of product
+* The planning
+* The role of each team member
+* Some final thoughts on the project
+
+🎥 Also each team must make a short film of the project for promotional purposes.
+
 
 

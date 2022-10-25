@@ -12,9 +12,9 @@ This guide is developt for students professional bachelor Elektronics-ICT at the
 
 1. Introduction to project
 2. Project workflow
-3. Chapter 3
-4. Chapter 4
-5. Chapter 5
+3. Scrum technique
+4. Project management with Redmine
+5. GitHub
 6. Chapter 6
 7. Chapter 7
 8. Chapter 8
@@ -23,7 +23,10 @@ This guide is developt for students professional bachelor Elektronics-ICT at the
 
 ## Sources
 
-* ???
+* https://www.scrumalliance.org/why-scrum/scrum-guide
+* https://en.wikipedia.org/wiki/Scrum_(software_development)
+* Scrum: A breathtakingly brief and agile introduction
+* https://dbader.org/blog/write-a-great-readme-for-your-github-project
 
 ## License
 
